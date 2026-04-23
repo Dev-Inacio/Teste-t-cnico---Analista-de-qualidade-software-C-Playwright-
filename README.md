@@ -321,7 +321,6 @@ As propriedades `Categoria` e `Pessoa` da entidade `Transacao` possuem `internal
 Entendido! Apenas os testes que realmente implementamos:
 
 ---
-Implementados
 📋 Cenários de Testes Implementados
 
 ### 🔵 Back-End — Integração
